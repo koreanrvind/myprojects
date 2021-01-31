@@ -44,7 +44,7 @@ while True:
                         press 9: to know the list of files in directory     \tpress 34: to know the history of commands on terminal
                         press 10: to ping  to any site/ip                   \tpress 35: to remove a file
                         press 11: to check jobs running                     \tpress 36: to remove  a folder
-                        press 12: to bring jobs running back to foreground  \tpress : to exit
+                        press 12: to bring jobs running back to foreground  \tpress 37: to exit
                         press 13: to create a directory                     
                         press 14: to kown user on system
                         press 15: to add new user
